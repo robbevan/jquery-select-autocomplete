@@ -1,8 +1,10 @@
 # jQuery Select Autocomplete
 
 jQuery Select Autocomplete lets you turn an HTML `<select>` tag into an auto-complete text input box.
-	
-You use it like this: $(select.autocomplete).select-autocomplete();
+
+Assuming you have one or more select lists with a class of "autocomplete", just write: 
+
+$(select.autocomplete).select_autocomplete();
   
 
 ### Example
