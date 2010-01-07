@@ -60,9 +60,9 @@
 			$input.result(function(event, selected_item, formatted) { 
 				$($this.find('option[value=' + selected_item.value + ']')[0]).attr('selected', true);
 			});
-		
+
 			//set the initial text value of the autocomplete input box to the text node of the selected item in the select control
-			$input.val($this.find('[selected=selected]').text());
+			$input.val($this[0].options[$this[0].selectedIndex].text);
 		
 			//normally, you'd hide the select list but we won't for this demo
 			$this.hide();
