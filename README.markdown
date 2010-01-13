@@ -9,7 +9,7 @@ $(select.autocomplete).select_autocomplete();
 
 ### Example
 
-See `index.html` for a working example.
+See `index.html` in this repo for a working example or check out [http://gabehollombe.github.com/jquery-select-autocomplete/](http://gabehollombe.github.com/jquery-select-autocomplete/) for a live demo.
 
 ## License
 
