@@ -11,6 +11,11 @@ $(select.autocomplete).select_autocomplete();
 
 See `index.html` in this repo for a working example or check out [http://gabehollombe.github.com/jquery-select-autocomplete/](http://gabehollombe.github.com/jquery-select-autocomplete/) for a live demo.
 
+## Contributors
+* Gabe Hollombe (gabehollombe)
+* James Gibson (liferealized)
+* Erik St. Martin (erikstmartin)
+
 ## License
 
 License is MIT. See LICENSE file.
